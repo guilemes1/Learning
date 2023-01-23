@@ -1,5 +1,5 @@
 # Python para Data Science
 
-Notebook criado para estudos da linguagem Python e uso da lib Numpy
+Repositório criado para estudos da linguagem Python e uso das principais bibliotecas para área de Dados
 
-[Notebook Colab](/Python_Data_Science_Numpy.ipynb)
+[Notebook Colab](Notebooks/Python_Data_Science_Numpy.ipynb)
